@@ -1,4 +1,4 @@
-<div class="titulo">Argumentos Variaveis</div>
+<div class="titulo">Argumentos  Variaveis</div>
 
 <?php
 
@@ -22,6 +22,13 @@ echo somaCompleta(1,2,3,4,5). "<br>";
 
 $array = [6,7,8];
 echo somaCompleta(...$array). "<br>";
-
-
 echo somaCompleta(1,2,3,...$array). "<br>";
+
+function membros($titular,...$dependentes){
+    echo " $titular :Titular <br>";
+    foreach($dependentes as $dep){
+        echo " &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__ $dep: membro <br>";
+    }
+}
+
+membros("Ana Silva", "Pedro", "alice", "Caio");
