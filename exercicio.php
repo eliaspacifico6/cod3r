@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
-    <link rel="stylesheet" href="recursos/css/estilo.css">
-    <link rel="stylesheet" href="recursos/css/exercicio.css">
+    <link rel="stylesheet" href="./recursos/css/estilo.css">
+    <link rel="stylesheet" href="./recursos/css/exercicio.css">
     <title>Exercício</title>
 </head>
 <body class="exercicio">
@@ -13,7 +13,7 @@
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">
-        <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> 
+        <a href=<?= "./{$_GET['dir']}/{$_GET['file']}.php" ?> 
             class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
     </nav>

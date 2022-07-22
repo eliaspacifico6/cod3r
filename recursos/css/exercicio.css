@@ -23,7 +23,9 @@ body.exercicio {
     text-decoration: none;
     color: #FFF;
     font-weight: 300;
-    font-size: 1.3rem;
+    font-size: 1em;
+
+
     background-color: #2196f3;
     padding: 5px 10px;
     margin-right: 10px;
@@ -33,11 +35,14 @@ body.exercicio {
 .navegacao > a.vermelho { background-color: #F44336; }
 
 .conteudo {
-    font-size: 2rem;
+    font-size: 1em;
+
+
 }
 
 .conteudo > .titulo {
-    font-size: 2.5rem;
+    font-size: 1em;
+
     font-weight: 300;
     padding-bottom: 10px;
     border-bottom: 1px solid #999;

@@ -31,13 +31,17 @@ body {
 .cabecalho > h1 {
     margin: 0px;
     font-weight: 300;
-    font-size: 2.8rem;
+    font-size: 2em;
+
+
 }
 
 .cabecalho > h2 {
     margin: 0px;
     font-weight: 200;
-    font-size: 1.6rem;
+    font-size: 1.2em;
+
+
 }
 
 .principal {
@@ -62,7 +66,8 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    font-size: 1.2rem;
+   font-size: 1em;
+;
     padding-right: 20px;
     color: #444;
 }
@@ -83,7 +88,9 @@ body {
     margin: 0px;
     color: #fff;
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1em;
+
+
     padding: 10px 20px;
     background-color: #1867c0;
 }
@@ -96,7 +103,8 @@ body {
 
 .modulo > ul > li {
     padding: 7px;
-    font-size: 1.2rem;
+   font-size: 1em;
+;
     cursor: pointer;
 }
 
