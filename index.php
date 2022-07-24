@@ -52,6 +52,16 @@
                             Funçoes Anomimas
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                            Closure e Callable
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                            Recursividade
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
