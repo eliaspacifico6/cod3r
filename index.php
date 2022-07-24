@@ -37,6 +37,21 @@
                             Argumentos Variaveis
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_padrao">
+                            Argumentos Padrão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                            Usando Timpo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=funcao_anonima">
+                            Funçoes Anomimas
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
