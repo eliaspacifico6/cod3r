@@ -11,9 +11,11 @@ function somaUmAte($numero){
 
 function somaRecursiva($numero){
     return $numero === 1 ? 1
-        : $numero somaRecursiva($numero-1);
+        : $numero + somaRecursiva($numero-1);
 } 
 
 
 
-echo somaUmAte(10);
+echo somaUmAte(150). "<br>";
+
+echo somaRecursiva(1500) . "<br>";

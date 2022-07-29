@@ -62,6 +62,16 @@
                             Recursividade
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recursao">
+                            Desafio Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=retorna_funcao">
+                            Retornando Função
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
